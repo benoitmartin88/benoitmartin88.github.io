@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Benoit MARTIN"
-  image = "img/blowfish_logo.png"
+  image = "img/benoit.jpg"
   headline = "Hello, World !"
   bio = "A little bit about you"
   links = [
