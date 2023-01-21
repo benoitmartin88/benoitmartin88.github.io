@@ -5,9 +5,9 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Home"
+title = "Benoit MARTIN"
 # logo = "img/logo.png"
-description = "My awesome website"
+description = "My personal website."
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
   name = "Benoit MARTIN"
   image = "img/benoit.jpg"
   headline = "Hello, World !"
-  bio = "A little bit about you"
+  bio = ""
   links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
