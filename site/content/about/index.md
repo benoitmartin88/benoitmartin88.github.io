@@ -8,15 +8,15 @@ showDateUpdated : false
 showHeadingAnchors : false
 showPagination : false
 showReadingTime : false
-showTableOfContents : true
-showTaxonomies : false 
+showTableOfContents : false
+showTaxonomies : false
 showWordCount : false
 showSummary : false
 sharingLinks : false
 showEdit: false
-showViews: true
+showViews: false
 showLikes: false
-showAuthor: true
+showAuthor: false
 layoutBackgroundHeaderSpace: false
 ---
 
