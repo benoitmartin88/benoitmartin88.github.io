@@ -37,6 +37,8 @@ buildFuture = false
 [params.plausible]
   enable = true  # Whether to enable plausible tracking
   debug = true
+#  outbound_link = true
+#  file_downloads = true
   domain = "benoit.martin.eco"  # Plausible "domain" name/id in your dashboard
   selfhosted_domain = "a.martin.eco"
 
