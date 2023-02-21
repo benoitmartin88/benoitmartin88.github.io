@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 date: 2023-02-20T17:08:51+01:00
-draft: true
+draft: false
 
 showDate : false
 showDateUpdated : false
