@@ -122,6 +122,10 @@
         border-radius: 4%;
     }
 
+    .max-w-prose {
+        max-width: 70ch;
+    }
+
 }
 
 td {
