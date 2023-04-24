@@ -24,7 +24,11 @@
   name = "Resume"
   pageRef = "resume"
   weight = 30
-  
+
+[[main]]
+  name = "Thesis"
+  pageRef = "thesis"
+  weight = 31
 
 [[main]]
   name = "About"
