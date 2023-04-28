@@ -25,25 +25,25 @@ My PhD research was completed within the [LIP6](https://lip6.fr) with the [Delys
 
 ## Thesis defense live video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mRCwQgOa3JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="mRCwQgOa3JY" title="Benoît Martin's PhD defense" >}}
 
 
 ## Jury members
--   **Reviewer**: Achour Mostefaoui  
+-   **Reviewer**: Achour Mostefaoui <br/>
     Professor, Université de Nantes  
--   **Reviewer**: Gaël Thomas  
+-   **Reviewer**: [Gaël Thomas](http://www-public.imtbs-tsp.eu/~thomas_g/) <br/>
     Professor, Telecom SudParis  
--   **Examiner**: Bernd Amann  
+-   **Examiner**: [Bernd Amann](http://www-bd.lip6.fr/wiki/site/membres/bernd/start) <br/>
     Professor, Sorbonne Université, LIP6 
--   **Examiner**: Annette Bieniusa  
+-   **Examiner**: [Annette Bieniusa](https://softech.informatik.uni-kl.de/team/annettebieniusa) <br/>
     Professor, Université Technique de Kaiserslautern 
--   **Examiner**: Carla Ferreira  
+-   **Examiner**: [Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/) <br/>
     Associate Professor, Université NOVA de Lisbon  
--   **Examiner**: Peter Van Roy  
+-   **Examiner**: [Peter Van Roy](https://www.info.ucl.ac.be/~pvr/cvvanroy.html) <br/>
     Professor, Université Catholique de Louvain 
--   **Supervisor**: Marc Shapiro  
+-   **Supervisor**: [Marc Shapiro](https://lip6.fr/Marc.Shapiro/) <br/>
     Distinguished Research Scholar (Emeritus), Sorbonne Université, LIP6, Inria  
--   **Advisor**: Mesaac Makpangou  
+-   **Advisor**: Mesaac Makpangou <br/>
     Researcher, Sorbonne Université, LIP6, Inria
 
 ## Abstract
