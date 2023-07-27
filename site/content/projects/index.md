@@ -35,4 +35,4 @@ The following list contains projects that I've worked on and that are no longer 
 |      | DIY Powerwall                     |             |      |
 |      | De-Google: self-host services     |             |      |
 |      | C++ stateful serverless framework |             |      |
-|      | DIY home automation                   |             |      |
+|      | DIY home automation               |             |      |
