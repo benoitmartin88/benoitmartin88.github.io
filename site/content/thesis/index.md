@@ -22,6 +22,7 @@ layoutBackgroundHeaderSpace: false
 I defended my PhD thesis, "TTCC: Transactional-Turn Causal Consistency", in Paris on Friday 21st April 2023 at 14:00 (Paris Time).
 My PhD research was completed within the [LIP6](https://lip6.fr) with the [Delys](https://team.inria.fr/delys/) INRIA team and under the supervision of [Marc Shapiro](https://lip6.fr/Marc.Shapiro/).
 
+The official manuscript is available [here](https://theses.hal.science/tel-04137260).
 
 ## Thesis defense live video
 
@@ -29,7 +30,7 @@ My PhD research was completed within the [LIP6](https://lip6.fr) with the [Delys
 
 
 ## Jury members
--   **Reviewer**: Achour Mostefaoui <br/>
+-   **Reviewer**: [Achour Mostefaoui](https://www.univ-nantes.fr/achour-mostefaoui) <br/>
     Professor, Université de Nantes  
 -   **Reviewer**: [Gaël Thomas](http://www-public.imtbs-tsp.eu/~thomas_g/) <br/>
     Professor, Telecom SudParis  
@@ -43,7 +44,7 @@ My PhD research was completed within the [LIP6](https://lip6.fr) with the [Delys
     Professor, Université Catholique de Louvain 
 -   **Supervisor**: [Marc Shapiro](https://lip6.fr/Marc.Shapiro/) <br/>
     Distinguished Research Scholar (Emeritus), Sorbonne Université, LIP6, Inria  
--   **Advisor**: Mesaac Makpangou <br/>
+-   **Advisor**: [Mesaac Makpangou](https://lip6.fr/Mesaac.Makpangou) <br/>
     Researcher, Sorbonne Université, LIP6, Inria
 
 ## Abstract
