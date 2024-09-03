@@ -14,9 +14,9 @@
         width: 60px;
         height: 60px;
         margin: 0px;
-        margin-left: -8px;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
         padding: 5px;
         object-fit: contain;
         border-radius: 4%;
@@ -58,9 +58,9 @@
         width: 80px;
         height: 80px;
         margin: 0px;
-        margin-left: -8px;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
         padding: 8px;
         object-fit: contain;
         border-radius: 4%;
@@ -99,9 +99,9 @@
         width: 100px;
         height: 100px;
         margin: 0px;
-        margin-left: -8px;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
         padding: 8px;
         object-fit: contain;
         border-radius: 4%;

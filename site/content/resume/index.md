@@ -33,10 +33,21 @@ layoutBackgroundHeaderSpace: false
     </thead>
     <tbody>
         <tr>
+            <td><img class="customEntitityLogo" src="cea.png"/></td>
+            <td><a href="https://cea.fr" target="_blank">CEA</a>/<a href="https://mdls.fr" target="_blank">Maison de la Simulation</a></td>
+            <td>Permanent Research Scientist</td>
+            <td>12/2023 - Present</td>
+        </tr>
+        <tr>
+            <td colspan=4 align="justify">
+I'm currently working around in-situ analytics in high-performance computing (HPC) and numerical simulations, with a particular emphasis on physical applications, parallel software engineering and programming models.
+            </td>
+	      </tr>
+        <tr>
             <td><img class="customEntitityLogo" src="lip6.png"/></td>
             <td><a href="https://lip6.fr" target="_blank">Laboratoire d'Informatique de Paris 6 (LIP6)</a></td>
             <td>PhD Student</td>
-            <td>11/2019 - Present</td>
+            <td>11/2019 - 12/2023</td>
         </tr>
         <tr>
 	        <td colspan=4 align="justify">
@@ -45,6 +56,8 @@ A unified consistency model for message passing  and shared memory is required t
 Based on a well-known message-based  model (actors) and a state model (transactional shared memory), we propose a  unified communication and persistence model called Transactional Turn Causal  Consistency (TTCC). TTCC is asynchronous, preserves isolation, and ensures that  the message and memory view are mutually causally consistent.
 
 Keywords: Causal Consistency, Serverless, Actor Model, Shared Memory
+
+More info on my [PhD](../thesis).
 			</td>
 	    </tr>
 		<tr>
