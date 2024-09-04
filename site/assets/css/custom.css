@@ -15,11 +15,13 @@
         height: 60px;
         margin: 0px;
         margin-left: 0px;
+        margin-right: 15px;
         margin-top: 0px;
         margin-bottom: 0px;
         padding: 5px;
         object-fit: contain;
         border-radius: 4%;
+        float: left;
     }
 
     .customEntitityAlbum {
@@ -59,6 +61,7 @@
         height: 80px;
         margin: 0px;
         margin-left: 0px;
+        margin-right: 15px;
         margin-top: 0px;
         margin-bottom: 0px;
         padding: 8px;
@@ -100,11 +103,13 @@
         height: 100px;
         margin: 0px;
         margin-left: 0px;
+        margin-right: 15px;
         margin-top: 0px;
         margin-bottom: 0px;
         padding: 8px;
         object-fit: contain;
         border-radius: 4%;
+        float: left;
     }
 
     .customEntitityAlbum {
