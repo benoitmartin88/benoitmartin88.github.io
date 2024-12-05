@@ -21,101 +21,73 @@ layoutBackgroundHeaderSpace: false
 
 ## Experience
 
+{{< timeline >}}
 
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Company</th>
-            <th>Role</th>
-            <th>Dates</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img class="customEntitityLogo" src="lip6.png"/></td>
-            <td><a href="https://lip6.fr" target="_blank">Laboratoire d'Informatique de Paris 6 (LIP6)</a></td>
-            <td>PhD Student</td>
-            <td>11/2019 - Present</td>
-        </tr>
-        <tr>
-	        <td colspan=4 align="justify">
-Today, stateful serverless functions are chained together through a message-based  infrastructure and store their durable state in a separate database. This separation  between storage and compute creates serious challenges that may lead to inconsistency and application crashes. 
-A unified consistency model for message passing  and shared memory is required to avoid such errors. The model should ensure  that multiple pieces of data remain mutually consistent, whether data is sent using  messages or shared in a distributed memory. 
-Based on a well-known message-based  model (actors) and a state model (transactional shared memory), we propose a  unified communication and persistence model called Transactional Turn Causal  Consistency (TTCC). TTCC is asynchronous, preserves isolation, and ensures that  the message and memory view are mutually causally consistent.
+{{< timelineItem icon="cea.png" header="CEA / Maison de la Simulation" subheader="Permanent Research Scientist" badge="12/2023 - Current">}}
+{{< figure src=cea.png alt="CEA logo" class="customEntitityLogo">}}
+I'm currently working around in-situ analytics in high-performance computing (HPC) and numerical simulations, with a particular emphasis on physical applications, parallel software engineering and programming models.
+{{< /timelineItem >}}
 
-Keywords: Causal Consistency, Serverless, Actor Model, Shared Memory
-			</td>
-	    </tr>
-		<tr>
-            <td><img class="customEntitityLogo" src="esgi.png"/></td>
-            <td><a href="https://www.esgi.fr" target="_blank">Ecole Supérieur de Génie Informatique (ESGI)</a></td>
-            <td>Teacher in Parallel Programming</td>
-            <td>09/2017 - 11/2019</td>
-        </tr>
-        <tr>
-	        <td colspan=4 align="justify">
+{{< timelineItem icon="lip6.png" header="LIP6" subheader="PhD Student" badge="09/2019 - 05/2023">}}
+{{< figure src=lip6.png alt="LIP6 logo" class="customEntitityLogo">}}
+Today, stateful serverless functions are chained together through a message-based infrastructure and store their durable state in a separate database.
+This separation between storage and compute creates serious challenges that may lead to inconsistency and application crashes. A unified consistency model for message passing and shared memory is required to avoid such errors.
+The model should ensure that multiple pieces of data remain mutually consistent, whether data is sent using messages or shared in a distributed memory.
+Based on a well-known message-based model (actors) and a state model (transactional shared memory), we propose a unified communication and persistence model called Transactional Turn Causal Consistency (TTCC).
+TTCC is asynchronous, preserves isolation, and ensures that the message and memory view are mutually causally consistent.
+<br><br>Keywords: Causal Consistency, Serverless, Actor Model, Shared memory
+{{< /timelineItem >}}
+
+{{< timelineItem icon="esgi.png" header="ESGI" subheader="Teacher in Parallel Programming" badge="09/2017 - 11/2019">}}
+{{< figure src=esgi.png alt="ESGI logo" class="customEntitityLogo">}}
 Teacher in parallel programming for 5th year Computer Science students specialized in Software Architecture. 
-During my time teaching this class, I also prepared and supervised exams and group projects.
-In-class lessons and projects were in C++.
-			</td>
-		</tr>
-        <tr>
-            <td><img class="customEntitityLogo" src="inria.svg"/></td>
-            <td><a href="https://www.aramislab.fr" target="_blank">Inria - ARAMIS</a></td>
-            <td>R&D Engineer</td>
-            <td>05/2018 - 10/2019</td>
-        </tr>
-    <tr>
-	    <td colspan=4 align="justify">
+During my time teaching this class, I also prepared and supervised exams and group projects. In-class lessons and projects were in C++.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="inria.png" header="Inria Aramis team" subheader="R&D Engineer" badge="05/2018 - 10/2019">}}
+{{< figure src=inria.svg alt="Inria logo" class="customEntitityLogo">}}
 Based at the Brain and Spine Institute at the Pitié-Salpêtrière hospital in Paris, I was a member of the ARAMIS Inria team.
-I participated the development of <a href="https://gitlab.com/icm-institute/aramislab/deformetrica" target="_blank">Deformetrica</a> which was ported from C++ to Python.
+I participated the development of Deformetrica which was ported from C++ to Python.
 I contributed by optimizing the performance of the application to help PhD students run experiments on a bigger dataset.
-Also, I contributed to <a href="https://github.com/getkeops/keops" target="_blank">PyKeops</a> which is used in Deformetrica to offload kernel operations.
+Also, I contributed to PyKeops which is used in Deformetrica to offload kernel operations.
 
-I used the following technologies:  
-- PyTorch: tensor library with auto-differentiation used within the Deformetrica application  
-- Anaconda: library repository for Deformetrica  
-- Python/Jupyter/Matplotlib/Nibabel: to prototype plot and read MR Images  
-- C++/Cuda: Keops (kernel operations library)  
-		</td>
-    </tr>
-		<tr>
-            <td><img class="customEntitityLogo" src="tredzone.jpg"/></td>
-            <td><a href="https://www.tredzone.fr" target="_blank">Tredzone</a></td>
-            <td>R&D Software Engineer</td>
-            <td>07/2015 - 03/2018</td>
-        </tr>
-        <tr>
-		    <td colspan=4 align="justify">
-Tredzone offers a high performance, low latency framework in C++ and Java for the capital market industry and other performance-hungry industries.  I contributed to the development of the C++ and Java actor model runtime.  
-Additionally, we develop a library in C++11, which leverages our C++ actor framework to compose a high performance application.
-Our framework is used in production at Euronext to power the core of their Optiq solution.
+I used the following technologies:
+<ul>
+  <li>PyTorch: tensor library with auto-differentiation used within the Deformetrica application</li>
+  <li>Anaconda: library repository for Deformetrica</li>
+  <li>Python/Jupyter/Matplotlib/Nibabel: to prototype plot and read MR Images</li>
+  <li>C++/Cuda: Keops (kernel operations library)</li>
+</ul>
+{{< /timelineItem >}}
 
-The following technologies are used:  
-- C++11 : highly abstracted runtime and SDK  
-- Solarflare : sub-microsecond feedhandlers  
-- Java JNI : predictable latency Java runtime and SDK  
-- Realtime Linux : tweaking for stable and ultra-low latency  
-		    </td>
-		</tr>
-        <tr>
-            <td><img class="customEntitityLogo" src="intel.png"/></td>
-            <td><a href="https://www.intel.com" target="_blank">Intel Corp</a></td>
-            <td>HPC Application Engineer</td>
-            <td>07/2014 - 12/2014</td>
-        </tr>
-        <tr>
-		    <td colspan=4 align="justify">
-Intern at the Exascale research lab in Paris. The lab was founded by Intel, the University of Versailles Saint Quentin (UVSQ), le Commissariat à l’énergie atomique et aux énergies alternatives (CEA) and Grand Equipement National de Calcul Intensif (GENCI).  
+{{< timelineItem icon="tredzone.png" header="Tredzone" subheader="R&D Software Engineer" badge="07/2015 - 03/2018">}}
+{{< figure src=tredzone.jpg alt="tredzone logo" class="customEntitityLogo">}}
+Tredzone offers a high performance, low latency framework in C++ and Java for the capital market industry and other performance-hungry industries. I contributed to the development of the C++ and Java actor model runtime.
+Additionally, we develop a library in C++11, which leverages our C++ actor framework to compose a high performance application. Our framework is used in production at Euronext to power the core of their Optiq solution.
 
-I was involved in the analysis and code optimization of the <a href="https://gyseladoc.gforge.inria.fr" target="_blank">Gysela5D</a> gyrokinetic code for Intel's Many Integrated Core Architecture (Intel MIC/Xeon Phi) and Sandy Bridge Xeon Architecture.  
-  
-Keywords: Roofline Model, VTunes, Software Development Emulator (SDE), Intel compiler
-		    </td>
-	    </tr>
-    </tbody>
-</table>
+The following technologies are used:
+<ul>
+  <li>C++11 : highly abstracted runtime and SDK</li>
+  <li>Solarflare : sub-microsecond feedhandlers</li>
+  <li>Java JNI : predictable latency Java runtime and SDK</li>
+  <li>Realtime Linux : tweaking for stable and ultra-low latency</li>
+</ul>
+{{< /timelineItem >}}
+
+{{< timelineItem icon="intel.png" header="Intel Corp" subheader="HPC Application Engineer" badge="07/2014 - 12/2014">}}
+{{< figure src=intel.png alt="Intel logo" class="customEntitityLogo">}}
+Intern at the Exascale research lab in Paris. The lab was founded by Intel, the University of Versailles Saint Quentin (UVSQ), le Commissariat à l’énergie atomique et aux énergies alternatives (CEA) and Grand Equipement National de Calcul Intensif (GENCI).
+<br>
+I was involved in the analysis and code optimization of the Gysela5D gyrokinetic code for Intel’s Many Integrated Core Architecture (Intel MIC/Xeon Phi) and Sandy Bridge Xeon Architecture.
+
+<br><br>Keywords: Roofline Model, VTunes, Software Development Emulator (SDE), Intel compiler 
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+
+
+
+
 
 ---
 

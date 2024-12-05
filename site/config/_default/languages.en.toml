@@ -1,16 +1,19 @@
+disabled = false
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
 
 title = "Benoit MARTIN"
 # logo = "img/logo.png"
 description = "My personal website."
 # copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "2 January 2006"
 
 [author]
   name = "Benoit MARTIN"
