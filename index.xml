@@ -1,1 +1,315 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://benoit.martin.eco/</link><description>Recent content on</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Benoit MARTIN</copyright><lastBuildDate>Sat, 21 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://benoit.martin.eco/index.xml" rel="self" type="application/rss+xml"/><item><title>PhD Thesis</title><link>https://benoit.martin.eco/thesis/</link><pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate><guid>https://benoit.martin.eco/thesis/</guid><description>I defended my PhD thesis, &amp;ldquo;TTCC: Transactional-Turn Causal Consistency&amp;rdquo;, in Paris on Friday 21st April 2023 at 14:00 (Paris Time). My PhD research was completed within the LIP6 with the Delys INRIA team and under the supervision of Marc Shapiro.</description></item><item><title>Resume</title><link>https://benoit.martin.eco/resume/</link><pubDate>Mon, 20 Feb 2023 17:08:51 +0100</pubDate><guid>https://benoit.martin.eco/resume/</guid><description>Experience CEA / Maison de la Simulation 12/2023 - Current Permanent Research Scientist I'm currently working around in-situ analytics in high-performance computing (HPC) and numerical simulations, with a particular emphasis on physical applications, parallel software engineering and programming models.</description></item><item><title>My first post !</title><link>https://benoit.martin.eco/posts/20230120-first-post/</link><pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate><guid>https://benoit.martin.eco/posts/20230120-first-post/</guid><description>This is my first post using Hugo and the Blowfish theme.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://benoit.martin.eco/posts/20230120-first-post/cover.png"/></item><item><title>Projects</title><link>https://benoit.martin.eco/projects/</link><pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate><guid>https://benoit.martin.eco/projects/</guid><description>I always try to find time to work and learn something new. Here are a few projects that I try to work on. The following list contains projects that I&amp;rsquo;ve worked on and that are no longer maintained as well as ongoing projects.</description></item><item><title>About</title><link>https://benoit.martin.eco/about/</link><pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate><guid>https://benoit.martin.eco/about/</guid><description>Biography I am currently a Research Scientist at Maison de la Simulation, a research laboratory involving CEA, CNRS, Université Paris-Saclay, and Université Versailles Saint-Quentin. I obtained my PhD in distributed systems at Sorbonne Université in Paris under the supervision of Marc Shapiro.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://benoit.martin.eco/</link><description>Recent content on</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024</copyright><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://benoit.martin.eco/index.xml" rel="self" type="application/rss+xml"/><item><title>PhD Thesis</title><link>https://benoit.martin.eco/thesis/</link><pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate><guid>https://benoit.martin.eco/thesis/</guid><description>&lt;p>I defended my PhD thesis, &amp;ldquo;TTCC: Transactional-Turn Causal Consistency&amp;rdquo;, in Paris on Friday 21st April 2023 at 14:00 (Paris Time).
+My PhD research was completed within the &lt;a href="https://lip6.fr" target="_blank">LIP6&lt;/a> with the &lt;a href="https://team.inria.fr/delys/" target="_blank">Delys&lt;/a> INRIA team and under the supervision of &lt;a href="https://lip6.fr/Marc.Shapiro/" target="_blank">Marc Shapiro&lt;/a>.&lt;/p></description></item><item><title>Resume</title><link>https://benoit.martin.eco/resume/</link><pubDate>Mon, 20 Feb 2023 17:08:51 +0100</pubDate><guid>https://benoit.martin.eco/resume/</guid><description>&lt;h2 class="relative group">Experience
+&lt;div id="experience" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ol class="border-l-2 border-primary-500 dark:border-primary-300 list-none">
+&lt;li>
+&lt;div class="flex flex-start">
+&lt;div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
+&lt;/div>
+&lt;div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
+&lt;div class="flex justify-between">
+&lt;h2 class="mt-0">
+CEA / Maison de la Simulation
+&lt;/h2>
+&lt;h3 class="">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+12/2023 - Current
+&lt;/span>
+&lt;/span>
+&lt;/h3>
+&lt;/div>
+&lt;h4 class="mt-0">
+Permanent Research Scientist
+&lt;/h4>
+&lt;div class="mb-6">
+&lt;figure>
+&lt;img
+class="my-0 rounded-md customEntitityLogo"
+srcset="
+/resume/cea_hu819777146386560608.png 330w,
+/resume/cea_hu5832277932032240007.png 660w,
+/resume/cea_hu7917850325753037708.png 1024w,
+/resume/cea_hu7189531636692430935.png 2x"
+src="https://benoit.martin.eco/resume/cea_hu5832277932032240007.png"
+alt="CEA logo"
+/>
+&lt;/figure>
+I'm currently working around in-situ analytics in high-performance computing (HPC) and numerical simulations, with a particular emphasis on physical applications, parallel software engineering and programming models.
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;div class="flex flex-start">
+&lt;div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
+&lt;/div>
+&lt;div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
+&lt;div class="flex justify-between">
+&lt;h2 class="mt-0">
+LIP6
+&lt;/h2>
+&lt;h3 class="">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+09/2019 - 05/2023
+&lt;/span>
+&lt;/span>
+&lt;/h3>
+&lt;/div>
+&lt;h4 class="mt-0">
+PhD Student
+&lt;/h4>
+&lt;div class="mb-6">
+&lt;figure>
+&lt;img
+class="my-0 rounded-md customEntitityLogo"
+srcset="
+/resume/lip6_hu2385316605886930641.png 330w,
+/resume/lip6_hu17624292141666010325.png 660w,
+/resume/lip6_hu5514032464676501264.png 1024w,
+/resume/lip6_hu1268604859325943172.png 2x"
+src="https://benoit.martin.eco/resume/lip6_hu17624292141666010325.png"
+alt="LIP6 logo"
+/>
+&lt;/figure>
+Today, stateful serverless functions are chained together through a message-based infrastructure and store their durable state in a separate database.
+This separation between storage and compute creates serious challenges that may lead to inconsistency and application crashes. A unified consistency model for message passing and shared memory is required to avoid such errors.
+The model should ensure that multiple pieces of data remain mutually consistent, whether data is sent using messages or shared in a distributed memory.
+Based on a well-known message-based model (actors) and a state model (transactional shared memory), we propose a unified communication and persistence model called Transactional Turn Causal Consistency (TTCC).
+TTCC is asynchronous, preserves isolation, and ensures that the message and memory view are mutually causally consistent.
+&lt;br>&lt;br>Keywords: Causal Consistency, Serverless, Actor Model, Shared memory
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;div class="flex flex-start">
+&lt;div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
+&lt;/div>
+&lt;div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
+&lt;div class="flex justify-between">
+&lt;h2 class="mt-0">
+ESGI
+&lt;/h2>
+&lt;h3 class="">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+09/2017 - 11/2019
+&lt;/span>
+&lt;/span>
+&lt;/h3>
+&lt;/div>
+&lt;h4 class="mt-0">
+Teacher in Parallel Programming
+&lt;/h4>
+&lt;div class="mb-6">
+&lt;figure>
+&lt;img
+class="my-0 rounded-md customEntitityLogo"
+srcset="
+/resume/esgi_hu17622416244940802345.png 330w,
+/resume/esgi_hu17333178586745420876.png 660w,
+/resume/esgi_hu6445808243279863692.png 1024w,
+/resume/esgi_hu2764718217390584479.png 2x"
+src="https://benoit.martin.eco/resume/esgi_hu17333178586745420876.png"
+alt="ESGI logo"
+/>
+&lt;/figure>
+Teacher in parallel programming for 5th year Computer Science students specialized in Software Architecture.
+During my time teaching this class, I also prepared and supervised exams and group projects. In-class lessons and projects were in C++.
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;div class="flex flex-start">
+&lt;div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
+&lt;/div>
+&lt;div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
+&lt;div class="flex justify-between">
+&lt;h2 class="mt-0">
+Inria Aramis team
+&lt;/h2>
+&lt;h3 class="">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+05/2018 - 10/2019
+&lt;/span>
+&lt;/span>
+&lt;/h3>
+&lt;/div>
+&lt;h4 class="mt-0">
+R&amp;amp;D Engineer
+&lt;/h4>
+&lt;div class="mb-6">
+&lt;figure>
+&lt;img
+class="my-0 rounded-md customEntitityLogo"
+src="https://benoit.martin.eco/resume/inria.svg"
+alt="Inria logo"
+/>
+&lt;/figure>
+Based at the Brain and Spine Institute at the Pitié-Salpêtrière hospital in Paris, I was a member of the ARAMIS Inria team.
+I participated the development of Deformetrica which was ported from C++ to Python.
+I contributed by optimizing the performance of the application to help PhD students run experiments on a bigger dataset.
+Also, I contributed to PyKeops which is used in Deformetrica to offload kernel operations.
+I used the following technologies:
+&lt;ul>
+&lt;li>PyTorch: tensor library with auto-differentiation used within the Deformetrica application&lt;/li>
+&lt;li>Anaconda: library repository for Deformetrica&lt;/li>
+&lt;li>Python/Jupyter/Matplotlib/Nibabel: to prototype plot and read MR Images&lt;/li>
+&lt;li>C++/Cuda: Keops (kernel operations library)&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;div class="flex flex-start">
+&lt;div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
+&lt;/div>
+&lt;div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
+&lt;div class="flex justify-between">
+&lt;h2 class="mt-0">
+Tredzone
+&lt;/h2>
+&lt;h3 class="">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+07/2015 - 03/2018
+&lt;/span>
+&lt;/span>
+&lt;/h3>
+&lt;/div>
+&lt;h4 class="mt-0">
+R&amp;amp;D Software Engineer
+&lt;/h4>
+&lt;div class="mb-6">
+&lt;figure>
+&lt;img
+class="my-0 rounded-md customEntitityLogo"
+srcset="
+/resume/tredzone_hu359415085342709486.jpg 330w,
+/resume/tredzone_hu7731526325357495775.jpg 660w,
+/resume/tredzone_hu16438890661979741845.jpg 1024w,
+/resume/tredzone_hu15904806755278571221.jpg 2x"
+src="https://benoit.martin.eco/resume/tredzone_hu7731526325357495775.jpg"
+alt="tredzone logo"
+/>
+&lt;/figure>
+Tredzone offers a high performance, low latency framework in C++ and Java for the capital market industry and other performance-hungry industries. I contributed to the development of the C++ and Java actor model runtime.
+Additionally, we develop a library in C++11, which leverages our C++ actor framework to compose a high performance application. Our framework is used in production at Euronext to power the core of their Optiq solution.
+The following technologies are used:
+&lt;ul>
+&lt;li>C++11 : highly abstracted runtime and SDK&lt;/li>
+&lt;li>Solarflare : sub-microsecond feedhandlers&lt;/li>
+&lt;li>Java JNI : predictable latency Java runtime and SDK&lt;/li>
+&lt;li>Realtime Linux : tweaking for stable and ultra-low latency&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;div class="flex flex-start">
+&lt;div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
+&lt;/div>
+&lt;div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
+&lt;div class="flex justify-between">
+&lt;h2 class="mt-0">
+Intel Corp
+&lt;/h2>
+&lt;h3 class="">
+&lt;span class="flex" style="cursor: pointer;">
+&lt;span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+07/2014 - 12/2014
+&lt;/span>
+&lt;/span>
+&lt;/h3>
+&lt;/div>
+&lt;h4 class="mt-0">
+HPC Application Engineer
+&lt;/h4>
+&lt;div class="mb-6">
+&lt;figure>
+&lt;img
+class="my-0 rounded-md customEntitityLogo"
+srcset="
+/resume/intel_hu6083408266597862123.png 330w,
+/resume/intel_hu7082436007731149083.png 660w,
+/resume/intel_hu13409422317663450175.png 1024w,
+/resume/intel_hu6937210993891449333.png 2x"
+src="https://benoit.martin.eco/resume/intel_hu7082436007731149083.png"
+alt="Intel logo"
+/>
+&lt;/figure>
+Intern at the Exascale research lab in Paris. The lab was founded by Intel, the University of Versailles Saint Quentin (UVSQ), le Commissariat à l’énergie atomique et aux énergies alternatives (CEA) and Grand Equipement National de Calcul Intensif (GENCI).
+&lt;br>
+I was involved in the analysis and code optimization of the Gysela5D gyrokinetic code for Intel’s Many Integrated Core Architecture (Intel MIC/Xeon Phi) and Sandy Bridge Xeon Architecture.
+&lt;br>&lt;br>Keywords: Roofline Model, VTunes, Software Development Emulator (SDE), Intel compiler
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 class="relative group">Education
+&lt;div id="education" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>School&lt;/th>
+&lt;th>Link&lt;/th>
+&lt;th>Degree&lt;/th>
+&lt;th>Date&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;img class="customEntitityLogo" src="su.svg"/>&lt;/td>
+&lt;td>&lt;a href="https://online.hbs.edu/" target="_blank">Sorbonne Université&lt;/a>&lt;/td>
+&lt;td>PhD in Distributed Systems&lt;/td>
+&lt;td>2023&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;img class="customEntitityLogo" src="uqac.png"/>&lt;/td>
+&lt;td>&lt;a href="https://uqac.ca" target="_blank">Université du Québec à Chicoutimi (UQAC)&lt;/a>&lt;/td>
+&lt;td>Master&lt;/td>
+&lt;td>2014&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td rowspan=2>&lt;img class="customEntitityLogo" src="esgi.png"/>&lt;/td>
+&lt;td rowspan=2>&lt;a href="https://esgi.fr" target="_blank">Ecole Supérieur de Génie Informatique (ESGI)&lt;/a>&lt;/td>
+&lt;td>Masters - Software Architect&lt;/td>
+&lt;td>2014&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Bachelor&lt;/td>
+&lt;td>2012&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 class="relative group">Publications
+&lt;div id="publications" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Benoît Martin&lt;/strong>, Laurent Prosperi and Marc Shapiro. Transactional-Turn Causal Consistency. &lt;em>EURO-PAR 2023 – 29th International European Conference on Parallel and Distributed Computing&lt;/em>, Aug 2023, Limassol, Cyprus. &lt;a href="https://hal.science/hal-04117344" target="_blank">pdf&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Benoît Martin&lt;/strong>. TTCC : Transactional-Turn Causal Consistency. PhD thesis defended in April 2023. &lt;a href="https://theses.hal.science/tel-04137260" target="_blank">pdf&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Benoît Martin&lt;/strong> and Marc Shapiro. 2022. Shared memory for the actor model. In &lt;em>Conférence francophone d’informatique en Parallélisme, Architecture et Système (COMPAS)&lt;/em>, Amiens, France. &lt;a href="https://hal.inria.fr/hal-04004775v1" target="_blank">pdf&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Benoît Martin&lt;/strong>, Laurent Prosperi and Marc Shapiro. 2020. An environment for composable distributed computing. &lt;a href="https://hal.inria.fr/hal-03146124" target="_blank">pdf&lt;/a>&lt;/li>
+&lt;li>Baptiste Couvy-Duchesne, Johann Faouzi, &lt;strong>Benoît Martin&lt;/strong>, Elina Thibeau–Sutre, Adam Wild, Manon Ansart, Stanley Durrleman, Didier Dormont, Ninon Burgos and Olivier Colliot. 2020. Ensemble Learning of Convolutional Neural Network, Support Vector Machine, and Best Linear Unbiased Predictor for Brain Age Prediction: ARAMIS Contribution to the Predictive Analytics Competition 2019 Challenge. &lt;em>Frontiers in Psychiatry&lt;/em> 11, (2020). &lt;a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2020.593336" target="_blank">pdf&lt;/a>&lt;/li>
+&lt;li>Alexandre Bône, &lt;strong>Benoît Martin&lt;/strong>, Maxime Louis, Olivier Colliot and Stanley Durrleman. 2019. Hierarchical modeling of Alzheimer’s disease progression from a large longitudinal MRI data set. &lt;a href="https://hal.inria.fr/hal-02090275" target="_blank">pdf&lt;/a>&lt;/li>
+&lt;li>Alexandre Bône, Maxime Louis, &lt;strong>Benoît Martin&lt;/strong> and Stanley Durrleman. 2018. Deformetrica 4: An Open-Source Software for Statistical Shape Analysis. In &lt;em>Shape in Medical Imaging&lt;/em> (Lecture Notes in Computer Science), Springer International Publishing, Cham, 3–13. &lt;a href="https://doi.org/10.1007/978-3-030-04747-4_1" target="_blank">pdf&lt;/a>&lt;/li>
+&lt;li>Hamid Mcheick, Louis Deladiennee, Mickael Wajnberg, &lt;strong>Benoît Martin&lt;/strong> and Marc Abi-Khalil. 2014. Universal Connector Framework for Pervasive Computing Using Cloud Technologies. &lt;em>Procedia Computer Science&lt;/em> 34, (January 2014), 141–148. &lt;a href="https://doi.org/10.1016/j.procs.2014.07.072" target="_blank">pdf&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>My first post !</title><link>https://benoit.martin.eco/posts/20230120-first-post/</link><pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate><guid>https://benoit.martin.eco/posts/20230120-first-post/</guid><description>This is my first post using Hugo and the Blowfish theme.</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://benoit.martin.eco/posts/20230120-first-post/cover.png"/></item><item><title>Projects</title><link>https://benoit.martin.eco/projects/</link><pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate><guid>https://benoit.martin.eco/projects/</guid><description>&lt;p>I always try to find time to work and learn something new. Here are a few projects that I try to work on.
+The following list contains projects that I&amp;rsquo;ve worked on and that are no longer maintained as well as ongoing projects.&lt;/p></description></item><item><title>About</title><link>https://benoit.martin.eco/about/</link><pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate><guid>https://benoit.martin.eco/about/</guid><description>&lt;h2 class="relative group">Biography
+&lt;div id="biography" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;p>I am currently a Research Scientist at &lt;a href="https://mdls.fr" target="_blank">Maison de la Simulation&lt;/a>, a research laboratory involving CEA, CNRS, Université Paris-Saclay, and Université Versailles Saint-Quentin.
+I obtained my PhD in distributed systems at Sorbonne Université in Paris under the supervision of &lt;a href="https://perso.lip6.fr/Marc.Shapiro" target="_blank">Marc Shapiro&lt;/a>.
+I earned my BSc and Engineering degree from École Supérieure de Génie Informatique (ESGI) in 2012 and 2015 respectively, and my MSc from Université du Québec à Chicoutimi (UQAC) in 2015.
+Prior to my PhD, I worked as an engineer in high-performance computing, in the fintech industry and as a research engineer at Inria with the &lt;a href="https://www.aramislab.fr" target="_blank">Aramis team&lt;/a>.&lt;/p></description></item></channel></rss>
