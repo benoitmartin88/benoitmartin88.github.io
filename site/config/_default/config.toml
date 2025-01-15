@@ -9,7 +9,6 @@ defaultContentLanguage = "en"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 20
 summaryLength = 30
 
 buildDrafts = false
@@ -18,6 +17,9 @@ buildFuture = false
 enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
+
+[pagination]
+  pagerSize = 20
 
 [imaging]
   anchor = 'Center'
@@ -37,10 +39,33 @@ enableEmoji = true
   home = ["HTML", "RSS", "JSON"]
 
 [params.plausible]
-  enable = true  # Whether to enable plausible tracking
-  debug = false
-  gitstar = false
-#  outbound_link = true
-#  file_downloads = true
-  domain = "benoit.martin.eco"  # Plausible "domain" name/id in your dashboard
-  selfhosted_domain = "a.martin.eco"
+   enable = false
+   # --- MANDATORY Domain name
+   domain = "benoit.martin.eco"
+   # --- Hash-based routing
+   # hash_based_routing = true
+   # --- Outboundlink goal
+   # outbound_link = false
+   # --- Track donwloaded files
+   # file_downloads = true
+   # file_downloads_types = "sh,run"
+   # --- Manage Adblockers
+   # custom_js_domain = "stats.mydomain.org"   # Deprecated -> please use proxying
+   # proxy_netlify = false
+   # --- Self hosting
+   selfhosted_domain = "a.martin.eco"
+   # --- Write public dashboard url in source
+   public_dashboard = false
+   # --- For embeded dashboard
+   # dash_disable = false
+   # dash_link = "https://plausible.io/share/yourdomain?auth=AZE1234RTYUOP67"
+   # dash_theme = ""
+   # dash_bgcolor = ""
+   # -- debug mode
+   debug = false
+   # -- remove console tip for giving a star on github
+   gitstar = false
+
+[params.plausible_version]
+   id = "1.21.0"
+
