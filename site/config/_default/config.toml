@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = ["blowfish", "plausible-hugo"]
+theme = ["blowfish"]
 baseURL = "https://benoit.martin.eco/"
 defaultContentLanguage = "en"
 
@@ -38,34 +38,5 @@ enableEmoji = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-[params.plausible]
-   enable = false
-   # --- MANDATORY Domain name
-   domain = "benoit.martin.eco"
-   # --- Hash-based routing
-   # hash_based_routing = true
-   # --- Outboundlink goal
-   # outbound_link = false
-   # --- Track donwloaded files
-   # file_downloads = true
-   # file_downloads_types = "sh,run"
-   # --- Manage Adblockers
-   # custom_js_domain = "stats.mydomain.org"   # Deprecated -> please use proxying
-   # proxy_netlify = false
-   # --- Self hosting
-   selfhosted_domain = "a.martin.eco"
-   # --- Write public dashboard url in source
-   public_dashboard = false
-   # --- For embeded dashboard
-   # dash_disable = false
-   # dash_link = "https://plausible.io/share/yourdomain?auth=AZE1234RTYUOP67"
-   # dash_theme = ""
-   # dash_bgcolor = ""
-   # -- debug mode
-   debug = false
-   # -- remove console tip for giving a star on github
-   gitstar = false
 
-[params.plausible_version]
-   id = "1.21.0"
 

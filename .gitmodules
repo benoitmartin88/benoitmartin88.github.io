@@ -2,6 +2,3 @@
 	path = site/themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
 	branch = main
-[submodule "site/themes/plausible-hugo"]
-	path = site/themes/plausible-hugo
-	url = git@github.com:divinerites/plausible-hugo.git
