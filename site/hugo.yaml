@@ -514,5 +514,6 @@ params:
     articleList: "Jan 2, 2006"
     articleRecent: "Jan 2, 2006"
 
-  #customScripts: -| # You can add custom scripts which will be added before </body> tag
+  customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="5625add8-0d4d-43a3-99c3-d0f009b44ed4"></script>
